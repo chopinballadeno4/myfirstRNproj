@@ -1,2 +1,2 @@
-# myfirstRNproj
+### 명세서 업로드 예정...
 using React Native
